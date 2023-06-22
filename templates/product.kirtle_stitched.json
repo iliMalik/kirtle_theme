@@ -33,15 +33,6 @@
             "picker_type": "button"
           }
         },
-        "a7ca504e-b343-4a52-9768-881977b4b0bf": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Size Guide",
-            "icon": "ruler",
-            "content": "",
-            "page": ""
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -71,7 +62,6 @@
         "60b31ea8-2739-4acd-b005-613d77ead1d0",
         "price",
         "variant_picker",
-        "a7ca504e-b343-4a52-9768-881977b4b0bf",
         "quantity_selector",
         "buy_buttons",
         "description",
